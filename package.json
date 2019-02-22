@@ -1,6 +1,6 @@
 {
   "name": "ncaa-team-colors",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "A simple JSON file of 346 NCAA teams and their associated colors in hexadecimal.",
   "main": "ncaa-team-colors.json",
   "scripts": {
